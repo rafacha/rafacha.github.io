@@ -1,0 +1,121 @@
+
+
+[
+  {
+    "name": "Aceite de aguacate",
+    "description": "Muy rico en vitaminas A, E y D, es excelente para pieles maduras, resecas, quemadas por el sol o maltratadas en general. También es útil para quienes sufren de psoriasis, eczema o problemas similares de la piel. Se absorbe fácilmente y es muy emoliente. Parte de sus beneficios se deben a que contiene una gran cantidad de materiales insaponificables que permanecen en el jabón después de la saponificación. Aunque se considera un aceite vegetal, en realidad el aguacate es una fruta."
+  },
+  {
+    "name": "Aceite de almendras dulces",
+    "description": "De bien ganada reputación como emoliente ayuda a balancear la pérdida y absorción de humedad de la piel. Es de muy fácil penetración y ayuda a tener la piel flexible, bien humectada y de aspecto limpio. Se considera que contribuye a reparar la barrera natural de grasas en nuestra piel. Produce jabones de espuma espesa y estable"
+  },
+  {
+    "name": "Áloe Vera",
+    "description": "También conocido como Sábila, su nombre científico es<i> Aloe vera </i> y el gel que se obtiene de sus hojas o pencas es muy útil para el tratamiento de multitud de condiciones en la piel. Es cicatrizante al regenerar células de la piel y es eficaz en todo tipo de heridas por el efecto coagulante de los minerales que contiene, tiene efecto rejuvenecedor al aumentar la producción de las células responsables de la formación de colágeno y también es un eficaz antiinflamatorio."
+  },
+  {
+    "name": "Avena",
+    "description": "Una de las características más importantes de la avena es su gran capacidad astringente que ayuda a reducir el exceso de grasa de la piel. Es también excelente para tratar el acné pues además de lo anterior, calma la comezón y reduce la inflamación cutánea."
+  },
+  {
+    "name": "Aceite de borraja",
+    "description": "Es uno de los aceites con mayor contenido de ácidos grasos esenciales y se considera excelente en el tratamiento de muchos problemas de la piel como eczema y otras condiciones crónicas. Se absorbe con facilidad y es excelente para pieles secas."
+  },
+  {
+    "name": "Manteca de cacao",
+    "description": "Es muy útil para producir pastillas de jabón duras. También se deposita en la piel como una película delgada, reteniendo su humedad y es un excelente suavizante de la misma. Si se usa en exceso produce pastillas quebradizas. Suele tener un delicado aroma a chocolate."
+  },
+  {
+    "name": "Café árabe",
+    "description": "Básicamente es un café de molido muy fino que, al estar presente en el jabón, ofrece un exfoliación suave que contribuye a su capacidad de limpieza. La infusión del mismo ayuda a eliminar olores y contribuye con el aroma característico de este producto."
+  },
+  {
+    "name": "Caléndula",
+    "description": "Es una flor de pétalos amarillos o naranjas, también conocida como \"maravilla\".  Se le reconoce como antiinflamatoria, antiséptica y cicatrizante. Es útil para combatir problemas de eczema, dermatitis, úlceras, rozaduras, quemaduras, etc."
+  },
+  {
+    "name": "Aceite de Cártamo",
+    "description": "Es un aceite con mayor contenido de ácido linoléico que otros aceites y es valioso por sus propiedades suavizantes y humectantes. Suele usarse en combinación con aceites de palma o coco Para producir pastillas de dureza media."
+  },
+  {
+    "name": "Aceite de coco",
+    "description": "Hace que el jabón produzca una excelente espuma y es muy importante para obtener barras de jabón duras. Los jabones a partir de mezclas con demasiado aceite de coco pueden llegar a resecar la piel si no se cuida la formulación. Produce jabones que hacen espuma aún en agua salada o dura."
+  },
+  {
+    "name": "Aceite de germen de trigo",
+    "description": "Con un muy alto contenido de vitamina E, es un excelente antioxidante. Se considera que ayuda a tener una piel suave y de aspecto joven por su alto contenido de ácido linoléico, y que contribuye a eliminar cicatrices y las marcas de la celulitis. También estimula la regeneración celular y alivia los síntomas de la dermatitis."
+  },
+  {
+    "name": "Agua de hamamelis",
+    "description": "El hamamelis tiene propiedades desinfectantes por lo que ayuda a reducir las inflamaciones y la formación de acné. También, por su alto contenido de ácido tánico, es un poderoso astringente y antioxidante esto favorece la limpieza de la piel y reduce el tamaño de los poros. A diferencia de otros productos para combatir el acné, el hamamelis es suave y no reseca."
+  },
+  {
+    "name": "Hidróxido de potasio",
+    "description": "También se le conoce como potasa y su fórmula química es KOH. Es, junto con el hidróxido de sodio, uno de los dos más importantes materiales en la fabricación de jabones. Participa en la reacción de saponificación produciendo jabones blandos. Normalmente se le reserva para elaborar jabones líquidos."
+  },
+  {
+    "name": "Hidroxido de sodio",
+    "description": "También se le conoce como sosa cáustica y su fórmula química es NaOH. Es, junto con el hidróxido de potasio, uno de los dos más importantes materiales en la fabricación de jabones. Participa en la reacción de saponificación produciendo jabones duros."
+  },
+  {
+    "name": "Aceite de jojoba",
+    "description": "En realidad no es un aceite sino una cera de composición muy parecida a la de la grasa o sebo que produce nuestra piel y por ello es un extraordinario material humectante que penetra y protege, siendo perfecta para todo tipo de piel, incluso puede utilizarse en pieles con acné por ser no comedogénica y no irritante. Es extremadamente estable y no se deteriora con facilidad."
+  },
+  {
+    "name": "Manteca de Karité",
+    "description": "Es una maravillosa manteca producida en África, contiene grandes cantidades de materiales insaponificables que humectan y nutren profundamente la piel y que permanecen en el jabón después de su formación."
+  },
+  {
+    "name": "Aceite de nuez de macadamia",
+    "description": "Este es uno de los pocos aceites vegetales que contienen cantidades importantes de ácido palmitoléico el cual forma alrededor del 20% de los ácidos grasos del sebo o grasa de nuestra piel, habiendo datos que apuntan hacia un efecto antienvejecimiento de este aceite. Se le encuentra en formulaciones para pieles secas, maduras o envejecidas, absorbiéndose fácilmente y suavizando la piel."
+  },
+  {
+    "name": "Aceite de maíz" ,
+    "description": "Es un aceite muy rico en vitamina E, ácidos grasos esenciales, vitaminas y minerales siendo adecuado para producir jabones para todo tipo de piel."
+  },
+  {
+    "name": "Malva" ,
+    "description": "La <i> Malva sylvestris </i> contiene un mucílago que es utilizado en la herbolaria para atender cualquier lesión, úlcera o llaga de la piel. También se le aprovecha para casos de eczema y para tratar picaduras de insectos. En general se le reconocen amplias propiedades emolientes."
+  },
+  {
+    "name": "Miel de abeja",
+    "description": "La miel de abeja es eficaz en proteger la humectación de la piel. Hidrata, suaviza y tiene propiedades antisépticas y bacteriostáticas. En general, se le agrega a los jabones como un emoliente. "
+  },
+  {
+    "name": "Aceite de neem",
+    "description": "Este aceite tiene propiedades muy importantes y de grandes beneficios dermatológicos, como ser un efectivo antiséptico, antifúngico, antibacterial y antiviral. En la medicina tradicional de la India, de donde es originario, se le utiliza para tratar eczema, psoriasis, rozaduras, quemaduras y acné. También es un efectivo repelente de insectos utilizado en la agricultura orgánica."
+  },
+  {
+    "name": "Aceite de oliva" ,
+    "description": "Previene la pérdida de la humedad natural de la piel, la suaviza y la humecta. Ayuda a tener una piel suave, flexible y de aspecto joven. Es uno de los aceites más utilizados en la fabricación de jabones artesanales."
+  },
+  {
+    "name": "Aceite de Palma",
+    "description": "Produce pastillas duras, de tacto agradable cuando se usa en combinación con otros aceites. Produce jabones de gran capacidad limpiadora, con espuma rica y densa, pero que son suaves con la piel."
+  },
+  {
+    "name": "Aceite de ricino" ,
+    "description": "Es un excelente acondicionador de la piel al atraer y retener la humedad de la piel. Produce mucha espuma en los jabones que lo contienen, sin embargo, en exceso produce pastillas demasiado blandas."
+  },
+  {
+    "name": "Aceite de Soya",
+    "description": "Es rico en vitaminas y en ácido linoléico, es bueno para todo tipo de piel y puede utilizarse en pieles con acné. Contribuye a producir pastillas duras."
+  },
+  {
+    "name": "Aceite de semillas de uva",
+    "description": "Es un aceite muy ligero y poco grasoso, rico en ácido linoléico, un componente importante de la piel y de la membrana celular. Se le considera con propiedades regenerativas y humectantes en particular para pieles maduras, dañadas o estresadas."
+  },
+  {
+    "name": "Aceite de girasol",
+    "description": "De alto oleico"
+  },
+  {
+    "name": "Aceite de tamanú",
+    "description": ""
+  },
+  {
+    "name": "Aceite esencial de lavanda",
+    "description": ""
+  }
+
+]

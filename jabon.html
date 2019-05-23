@@ -1,0 +1,57 @@
+
+<!DOCTYPE HTML>
+
+
+
+<html lang='en'>
+
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/css/modal.css" />
+    <link rel="stylesheet" href="/css/normalize.css" />
+    <link rel="stylesheet" href="/css/skeleton.css" />
+    <link rel="stylesheet" href="/css/cartilage.css" />
+    <link rel="stylesheet" href="/css/altia.css" />
+    <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css" />
+  </head>
+
+  <body>
+
+    <div id="logonavbar"></div>
+    <div id="menunavbar"></div>
+
+    <section id="soap_section" :style="styleObject">
+
+        <div class="container soap-container">
+            <h1>{{soap.name}}</h1>
+
+            <p>{{soap.description}}</p>
+
+
+            <p>Precio {{soap.price | currency}}</p>
+        </div>
+
+        <div class="container soap-container">
+            <h2>Ingredientes</h2>
+
+        </div>
+
+
+    </section>
+
+  </body>
+
+  <script src="/js/lib/jquery-3.1.1.js"></script>
+  <script src="/js/lib/vue.js"></script>
+  <script src="/js/flash.js"></script>
+  <script src="/js/jquery_ajax.js"></script>
+  <script src="/js/soap.js"></script>
+
+</html>

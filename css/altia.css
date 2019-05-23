@@ -1,0 +1,94 @@
+/*#landing-container{
+  background-color : #BA9D66;
+
+  height: 100vh;
+
+}
+*/
+@font-face {
+  font-family: belleza;
+  src: url('/fonts/Belleza-Regular.ttf')
+}
+
+body {
+  font-family: belleza;
+  font-weight: 100;
+  background: url('/images/background.png') center center no-repeat fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  /* it ain't pretty but we need it: */
+  background-color: #C2AE79;
+}
+
+.base-container {
+  font-size: 1.3em;
+  background-color: rgba(255, 255, 255, 0.8);
+  /*margin: auto;*/
+  margin-top: 20px;
+  /*margin-left: 20px;*/
+  /*margin-right: 220px;*/
+  padding: 20px 40px;
+  color: #4C3815;
+}
+
+.soap-container {
+  font-size: 1.3em;
+  background-color: rgba(255, 255, 255, 0.8);
+  /*margin: auto;*/
+  margin-top: 20px;
+  /*margin-left: 20px;*/
+  /*margin-right: 220px;*/
+  padding: 20px 40px;
+  color: #4C3815;
+}
+
+#soap_section {
+  padding: 20px 40px;
+}
+
+.navbar{
+  font-size: 1.5em;
+  background-color: #282520;
+}
+
+.navbar .selected{
+  color: #1F83C4;
+}
+
+#proyecto-altia {
+  /*text-align: center;*/
+  /*display: none;*/
+  margin: auto;
+  height: 30vh;
+  margin-top: 15vh;
+  padding: 0;
+}
+
+#logo {
+  height: 30vh;
+  /*display: none;*/
+  /*margin: auto;*/
+  padding: 0;
+}
+#nav-logo {
+  height: 5vh;
+
+}
+#soaps-container{
+  background-color : #F2EEE3
+
+  height: 100vh;
+
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #4C3815;
+}

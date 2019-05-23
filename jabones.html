@@ -1,0 +1,63 @@
+
+<!DOCTYPE HTML>
+
+<html lang='en'>
+
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/css/modal.css" />
+    <link rel="stylesheet" href="/css/normalize.css" />
+    <link rel="stylesheet" href="/css/skeleton.css" />
+    <link rel="stylesheet" href="/css/cartilage.css" />
+    <link rel="stylesheet" href="/css/altia.css" />
+    <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css" />
+  </head>
+
+  <body>
+
+    <div id="logonavbar"></div>
+    <div id="menunavbar"></div>
+
+    <div class="center-text" id="soaps-container">
+      <div class="container base-container">
+        <div class="row">
+            <div class="twelve columns">
+                <p>En el Proyecto ALTIA pensamos que nuestros jabones son objetos de placer que también nos limpian. Placer al tacto de la pastilla, al sentir la textura de su espuma, al percibir su aroma.</p>
+                <p>Les llamamos jabones de autor porque cada uno expresa su propia personalidad al ser diferente de los demás, desde la formulación misma de los aceites, mantecas y demás materiales que les dan origen.</p>
+                <p>Formulados con los mejores materiales naturales, nuestros jabones se elaboran desde el año 2005 en la maravillosa Ciudad de México, completamente a mano, con cuidado y con cariño, en lotes pequeños, por saponificación (proceso en frío).</p>
+            </div>
+        </div>
+        <section id="soaps_section">
+          <div class="row">
+              <div v-for="soap in soaps" class="three columns">
+
+                <a :href="`/jabon.html?name=${soap.name}`">
+                  <img :src="soap.image">
+
+                  <span class="product-name"> {{soap.name}}</span>
+
+                </a>
+
+              </div>
+
+          </div>
+        </section>
+      </div>
+    </div>
+
+  </body>
+
+  <script src="/js/lib/jquery-3.1.1.js"></script>
+  <script src="/js/lib/vue.js"></script>
+  <script src="/js/flash.js"></script>
+  <script src="/js/jquery_ajax.js"></script>
+  <script src="/js/soaps.js"></script>
+
+</html>

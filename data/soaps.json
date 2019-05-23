@@ -1,0 +1,33 @@
+[
+  {
+    "name":                "Almazara",
+    "short_description":   "100% Oliva",
+    "description":         "El auténtico Jabón de Castilla a partir de 100% aceite de oliva, y nada más. Elaborado por primera vez alrededor del siglo VII en España y otros sitios del Mediterráneo. Espuma tipo gel. Casi sin burbujas, excelente para la piel.",
+    "price":               50,
+    "visible":             true,
+    "ingredients":         [
+      "Aceite de oliva"
+    ],
+    "image":               "/images/photos/ALMAZARA.JPG"
+  },
+
+  {
+    "name":                "Antiguo",
+    "short_description":   "Formulado a partir de recetas antiguas de jabón de tocador",
+    "description":         "Versión contemporánea a partir de recetas antiguas de jabón de tocador. Formulado con aceites de oliva, maíz, ricino y coco, y manteca de cacao. Contiene avena y aceite esencial de lavanda",
+    "price":               50,
+    "visible":             true,
+    "ingredients":         [
+      "Aceite de oliva",
+      "Aceite de maíz",
+      "Aceite de ricino",
+      "Aceite de coco",
+      "Manteca de cacao",
+      "Avena",
+      "Aceite esencial de lavanda"
+    ],
+    "image":               "/images/photos/ANTIGUO.JPG"
+  }
+
+]
+
