@@ -1,8 +1,8 @@
 [
   {
     "name":                "Almazara",
-    "short_description":   "100% Oliva",
-    "description":         "El mas auténtico Jabón de Castilla a partir de 100% aceite de oliva, y nada más. Elaborado por primera vez alrededor del siglo VII en España y otros sitios del Mediterráneo. Espuma tipo gel. Casi sin burbujas, excelente para la piel.",
+    "short_description":   "Auténtico Jabón de Castilla, 100% Oliva",
+    "description":         "El mas auténtico Jabón de Castilla a partir de 100% aceite de oliva, y nada más. Elaborado por primera vez alrededor del siglo VII en España y otros sitios del Mediterráneo. Espuma tipo gel, casi sin burbujas, sin color ni aroma agregados, excelente para la piel.",
     "price":               50,
     "visible":             true,
     "ingredients":         [
@@ -11,10 +11,28 @@
     "image":               "/images/photos/ALMAZARA.JPG"
   },
 
+   {
+    "name":                "Arabaria",
+    "short_description":   "De reminiscencias orientales, delicioso jabón de aroma a menta ",
+    "description":         "Este es un delicioso jabón de aroma a menta sumamente estimulante y espuma cremosa. Perfecto para empezar el día. Formulado  partir de aceites de oliva, coco,aguacate y ricino, y mantecas de cacao y karité. Aceite escencial de menta",
+    "price":               50,
+    "visible":             true,
+    "ingredients":         [
+      "Aceite de oliva",
+      "Aceite de coco",
+      "Aceite de aguacate",
+      "Aceite de ricino",
+      "Manteca de cacao",
+      "Manteca de Karité",
+      "Aceite esencial de menta"
+    ],
+    "image":               "/images/photos/ARABARIA.JPG"
+  },
+
   {
     "name":                "Avanda",
     "short_description":   "Formulado a partir de recetas antiguas de jabón de tocador",
-    "description":         "Versión contemporánea a partir de recetas antiguas de jabón de tocador. Formulado con aceites de oliva, maíz, ricino y coco, y manteca de cacao. Contiene avena y aceite esencial de lavanda",
+    "description":         "Versión contemporánea a partir de recetas antiguas de jabón de tocador. Formulado con aceites de oliva, maíz, ricino y coco, y manteca de cacao. Contiene avena y aceite esencial de lavanda.",
     "price":               50,
     "visible":             true,
     "ingredients":         [
@@ -27,7 +45,63 @@
       "Aceite esencial de lavanda"
     ],
     "image":               "/images/photos/ANTIGUO.JPG"
-  }
+  },
 
+  {
+    "name":                "BB",
+    "short_description":   "Para bebés y otras pieles delicadas",
+    "description":         "Especialmente formulado para pieles sensibles a partir de aceites de almendras dulces, aguacate, coco, oliva, ricino, jojoba y mantecas de cacao y karité. Sin color ni aroma agregados.",
+    "price":               50,
+    "visible":             true,
+    "ingredients":         [
+      "Aceite de almendras dulces",
+      "Aceite de aguacate",
+      "Aceite de coco",
+      "Aceite de jojoba",
+      "Aceite de germen de trigo",
+      "Aceite de oliva",
+      "Aceite de ricino",
+      "Manteca de cacao",
+      "Manteca de Karité"
+    ],
+    "image":               "/images/photos/BB.JPG"
+  },
+
+   {
+    "name":                "Casandra",
+    "short_description":   "Especialmente adecuado para pieles secas o maduras.",
+    "description":         "Jabón complejo, delicioso, fabricado a partir de aceites de nuez de macadamia, semillas de uva, almendras dulces, aguacate, ricino, oliva, girasol, coco y manteca de cacao, aceites esenciales de verbena y té limón",
+    "price":               50,
+    "visible":             true,
+    "ingredients":         [
+      "Aceite de Cártamo",
+      "Aceite de oliva",
+      "Aceite de ricino",
+      "Aceite de aguacate",
+      "Aceite de almendras dulces",
+      "Aceite de semillas de uva",
+      "Aceite de nuez de macadamia",
+      "Aceite de coco",
+      "Manteca de cacao",
+      "Aceite esencial de verbena",
+      "Aceite esencial de té limón"
+    ],
+    "image":               "/images/photos/CASANDRA.JPG"
+  },
+
+     {
+    "name":                "Delirio",
+    "short_description":   "Jabón de chocolate.",
+    "description":         "Chocolate voluptuoso. ¿Qué más se puede decir de un jabón elaborado a partir de cocoa real además de mantecas de cacao y karité, y aceites de oliva y coco? Un regalo desde la nación origen del chocolate.",
+    "price":               50,
+    "visible":             true,
+    "ingredients":         [
+      "Aceite de oliva",
+      "Aceite de coco",
+      "Manteca de cacao",
+      "Manteca de Karité",
+      "cocoa",
+    ],
+    "image":               "/images/photos/DELIRIO.JPG"
+  },
 ]
-
